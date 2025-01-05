@@ -6,14 +6,14 @@ from datetime import datetime
 import time
 
 # Initialize bot with your token
-TOKEN = "7762846339:AAGzOirfjmxTYw14FK7fujiS05mPnwGHPBc"
+TOKEN = "7954860124:AAH7T7_VjeiZ4wRJVAOdGGPNEX7Dmv9M_uA"
 bot = telebot.TeleBot(TOKEN)
 
 # File to store premium users
 PREMIUM_USERS_FILE = "premium_users.txt"
 PROXY_FILE = "proxy.txt"
 UA_FILE = "user-agents.txt"
-ADMIN_USER = "BorNo_SixNine"
+ADMIN_USER = "DarkDdosOwner"
 is_attack_running = False
 
 # Methods for attacks
